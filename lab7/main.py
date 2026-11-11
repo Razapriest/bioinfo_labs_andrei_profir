@@ -141,12 +141,6 @@ def simulate_gel(dna_length, enzyme_results):
     plt.tight_layout()
     plt.show()
 
-
-
-# --------------------------------------------------
-# 8. MAIN PROGRAM
-# --------------------------------------------------
-
 def main():
 
     print("=" * 55)
